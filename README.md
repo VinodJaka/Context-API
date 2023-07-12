@@ -1,3 +1,5 @@
+in this file i have done context api with consumer in cart component and useContext() hook in total component
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
